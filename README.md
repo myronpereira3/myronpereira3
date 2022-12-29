@@ -63,11 +63,11 @@
 <br>
 
 <!-- ----------------------coding steak--------------------------------- -->
-   <p align="center">
+<!--    <p align="center">
     <a href="https://github.com/myronpereira3/github-readme-streak-stats">
         <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="Myron Pereira streak" src="https://github-readme-streak-stats.herokuapp.com/?user=myronpereira3&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-</p>
+</p> -->
 
   <p align="center">
     <a href="https://github.com/myronpereira3/github-readme-stats"><img alt="Myron Pereira Github Stats" src="https://github-readme-stats.vercel.app/api?username=myronpereira3&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -79,15 +79,9 @@
 
  
 
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<br/>
-<br/>
 
-<a href="https://github.com/myronpereira3/github-readme-activity-graph"><img alt="Myron Pereira Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=myronpereira3&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
 
 <!----------------------------------- Project Section ------------------------------------>
 

@@ -24,7 +24,7 @@
 
 :speech_balloon: **Ask me about :** Data Structures and Algorithms, JavaScript, React and MongoDb
 
-:goal_net: **2022 Goals :**  More than just coding, I love building applications and solving real world problems.
+:goal_net: **2023 Goals :**  More than just coding, I love building applications and solving real world problems.
     
  👨‍💻  Portfolio : [https://myron-portfolio.vercel.app/](https://myron-portfolio.vercel.app/)
     

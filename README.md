@@ -69,14 +69,14 @@
     </a>
 </p> -->
 
-  <p align="center">
-    <a href="https://github.com/myronpereira3/github-readme-stats"><img alt="Myron Pereira Github Stats" src="https://github-readme-stats.vercel.app/api?username=myronpereira3&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    </p>
-   
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myronpereira3&theme=react&hide_border=true&bg_color=0D1117" height="260px" width="33.25%"/>
-    </p>
+<!--   <p align="center">
+   ![](https://github-readme-stats.vercel.app/api?username=myronpereira3&show_icons=true&theme=chartreuse-dark)
 
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=myronpereira3&theme=chartreuse-dark)
+    </p>
+    -->
+  
  
 
 
